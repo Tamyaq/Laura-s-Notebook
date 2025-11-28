@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 7b604912a18a6e64a8b4edec508102b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5802550617565180150
+    second: Laura2-5.png_0
+  - first:
+      213: -7631739398545529502
+    second: Laura2-5.png_1
+  - first:
+      213: -1261750674378508952
+    second: Laura2-5.png_2
+  - first:
+      213: 6885604447373503044
+    second: Laura2-5.png_3
+  - first:
+      213: 6849595556429615768
+    second: Laura2-5.png_4
+  - first:
+      213: -5201803271065725233
+    second: Laura2-5.png_5
+  - first:
+      213: -5352101821850580686
+    second: Laura2-5.png_6
+  - first:
+      213: 7698356197400931002
+    second: Laura2-5.png_7
+  - first:
+      213: -593248288218422750
+    second: Laura2-5.png_8
+  - first:
+      213: -1514224460241219777
+    second: Laura2-5.png_9
+  - first:
+      213: 5906036574528456749
+    second: Laura2-5.png_10
+  - first:
+      213: 3514035349472795695
+    second: Laura2-5.png_11
+  - first:
+      213: 1794067260501833525
+    second: Laura2-5.png_12
+  - first:
+      213: 4025386786270060381
+    second: Laura2-5.png_13
+  - first:
+      213: 6650599652695260765
+    second: Laura2-5.png_14
+  - first:
+      213: 3190715699086718608
+    second: Laura2-5.png_15
+  - first:
+      213: 3628396840770070527
+    second: Laura2-5.png_16
+  - first:
+      213: 5466506815552725651
+    second: Laura2-5.png_17
+  - first:
+      213: 5423380784578750891
+    second: Laura2-5.png_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Laura2-5.png_0
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 274
+        width: 5717
+        height: 9888
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0fcdc0e4f2397fa0800000000000000
+      internalID: -5802550617565180150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laura2-5.png_1
+      rect:
+        serializedVersion: 2
+        x: 2732
+        y: 10161
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2652753a37d961690800000000000000
+      internalID: -7631739398545529502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laura2-5.png_2
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 10161
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8653f8a527c5d7ee0800000000000000
+      internalID: -1261750674378508952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laura2-5.png_3
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 7121
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a2c8d63c49e8f50800000000000000
+      internalID: 6885604447373503044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laura2-5.png_4
+      rect:
+        serializedVersion: 2
+        x: 6931
+        y: 298
+        width: 5511
+        height: 5221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892d41c2ed6ae0f50800000000000000
+      internalID: 6849595556429615768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laura2-5.png_5
+      rect:
+        serializedVersion: 2
+        x: 9272
+        y: 5519
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc699ac3c7b7fc7b0800000000000000
+      internalID: -5201803271065725233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laura2-5.png_6
+      rect:
+        serializedVersion: 2
+        x: 9623
+        y: 5518
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23900eaefb389b5b0800000000000000
+      internalID: -5352101821850580686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laura2-5.png_7
+      rect:
+        serializedVersion: 2
+        x: 12441
+        y: 4058
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba62848c2e06da60800000000000000
+      internalID: 7698356197400931002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laura2-5.png_8
+      rect:
+        serializedVersion: 2
+        x: 6521
+        y: 3842
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222e12533db54c7f0800000000000000
+      internalID: -593248288218422750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laura2-5.png_9
+      rect:
+        serializedVersion: 2
+        x: 6909
+        y: 3578
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f4d1940e46cfae0800000000000000
+      internalID: -1514224460241219777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laura2-5.png_10
+      rect:
+        serializedVersion: 2
+        x: 6521
+        y: 3462
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28cb3719f476f150800000000000000
+      internalID: 5906036574528456749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laura2-5.png_11
+      rect:
+        serializedVersion: 2
+        x: 6909
+        y: 3366
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2cdd7d388c54c030800000000000000
+      internalID: 3514035349472795695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laura2-5.png_12
+      rect:
+        serializedVersion: 2
+        x: 6911
+        y: 3220
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537be550baec5e810800000000000000
+      internalID: 1794067260501833525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laura2-5.png_13
+      rect:
+        serializedVersion: 2
+        x: 6914
+        y: 2988
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f9d2764fb0dd730800000000000000
+      internalID: 4025386786270060381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laura2-5.png_14
+      rect:
+        serializedVersion: 2
+        x: 10929
+        y: 278
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ebc32d52dab4c50800000000000000
+      internalID: 6650599652695260765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laura2-5.png_15
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 255
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096735fe503b74c20800000000000000
+      internalID: 3190715699086718608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laura2-5.png_16
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 257
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7ef3ed3b7aa5230800000000000000
+      internalID: 3628396840770070527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laura2-5.png_17
+      rect:
+        serializedVersion: 2
+        x: 3988
+        y: 254
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392a5476cfeecdb40800000000000000
+      internalID: 5466506815552725651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Laura2-5.png_18
+      rect:
+        serializedVersion: 2
+        x: 5163
+        y: 255
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9ee7ad618b34b40800000000000000
+      internalID: 5423380784578750891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Laura2-5.png_0: -5802550617565180150
+      Laura2-5.png_1: -7631739398545529502
+      Laura2-5.png_10: 5906036574528456749
+      Laura2-5.png_11: 3514035349472795695
+      Laura2-5.png_12: 1794067260501833525
+      Laura2-5.png_13: 4025386786270060381
+      Laura2-5.png_14: 6650599652695260765
+      Laura2-5.png_15: 3190715699086718608
+      Laura2-5.png_16: 3628396840770070527
+      Laura2-5.png_17: 5466506815552725651
+      Laura2-5.png_18: 5423380784578750891
+      Laura2-5.png_2: -1261750674378508952
+      Laura2-5.png_3: 6885604447373503044
+      Laura2-5.png_4: 6849595556429615768
+      Laura2-5.png_5: -5201803271065725233
+      Laura2-5.png_6: -5352101821850580686
+      Laura2-5.png_7: 7698356197400931002
+      Laura2-5.png_8: -593248288218422750
+      Laura2-5.png_9: -1514224460241219777
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
